@@ -125,8 +125,8 @@ Probably not. If they do, please tell us so we can laugh to ourselves like a bun
 
 1. Download [.NET SDK 9.0.2](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.200-windows-x64-binaries)
 2. Extract the contents of the downloaded archive to `C:\dotnet-sdk-9.0.200-win-x64`
-3. Open command prompt in the directory where `TSforge.sln` can be found
-4. Run `C:\dotnet-sdk-9.0.200-win-x64\dotnet.exe build -c Release TSforge.sln`
+3. Open command prompt in the directory where `TSforge.slnx` can be found
+4. Run `C:\dotnet-sdk-9.0.200-win-x64\dotnet build -c Release`
 5. Built binaries can be found in `TSforgeCLI\bin\Release\net35`
 
 ## Credits
