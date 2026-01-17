@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LibTSforge/LibTSforge.csproj" />
+  <Project Path="TSforgeCLI/TSforgeCLI.csproj" />
+</Solution>
